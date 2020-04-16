@@ -7,7 +7,7 @@ namespace Rocket.Plugins.Template.Commands
     {
         public string Name => "template";
         public string Syntax { get { return ""; } }
-        public string Help => Plugin.Instance.Translate("help_message");
+        public string Help => Plugin.Instance.Translate("template_help_message");
 
         public List<string> Aliases { get { return new List<string>(); } }
         public List<string> Permissions { get { return new List<string>(); } }

@@ -33,7 +33,7 @@ namespace Rocket.Plugins.Template
             {
                 return new TranslationList()
                 {
-                    {"help_message", "" }
+                    {"template_help_message", "" }
                 };
             }
         }
