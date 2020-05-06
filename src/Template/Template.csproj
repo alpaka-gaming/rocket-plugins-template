@@ -38,23 +38,23 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Rocket.Plugins.Dependencies.4.9.3\lib\net20\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\packages\Rocket.Plugins.Dependencies.4.9.4\lib\net40\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Rocket.Plugins.Dependencies.4.9.3\lib\net20\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>..\packages\Rocket.Plugins.Dependencies.4.9.4\lib\net40\Assembly-CSharp-firstpass.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Rocket.API, Version=2.6.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Rocket.Plugins.Dependencies.4.9.3\lib\net20\Rocket.API.dll</HintPath>
+      <HintPath>..\packages\Rocket.Plugins.Dependencies.4.9.4\lib\net40\Rocket.API.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Rocket.Core, Version=2.4.8.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Rocket.Plugins.Dependencies.4.9.3\lib\net20\Rocket.Core.dll</HintPath>
+      <HintPath>..\packages\Rocket.Plugins.Dependencies.4.9.4\lib\net40\Rocket.Core.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Rocket.Unturned, Version=4.9.3.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Rocket.Plugins.Dependencies.4.9.3\lib\net20\Rocket.Unturned.dll</HintPath>
+      <HintPath>..\packages\Rocket.Plugins.Dependencies.4.9.4\lib\net40\Rocket.Unturned.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
@@ -63,7 +63,11 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Xml" />
     <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Rocket.Plugins.Dependencies.4.9.3\lib\net20\UnityEngine.dll</HintPath>
+      <HintPath>..\packages\Rocket.Plugins.Dependencies.4.9.4\lib\net40\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rocket.Plugins.Dependencies.4.9.4\lib\net40\UnityEngine.CoreModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
