@@ -6,6 +6,6 @@
   <Var name="KeepPublicApi" value="true" />
   <Var name="HidePrivateApi" value="true" />
   <Var name="HideStrings" value="true" />
-  <AssemblySearchPath path="../packages/Rocket.Plugins.Dependencies.4.9.4/lib/net40" />
+  <AssemblySearchPath path="../packages/Rocket.Plugins.Dependencies.4.9.5/lib/net40" />
   <Module file="$(InPath)/Rocket.Template.dll" />
 </Obfuscator>
