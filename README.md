@@ -1,9 +1,12 @@
 ![logo](src/.editoricon.png)
 
 # Rocket Plugin Template
-Provides private vaults In-Game for players
+Provides template for In-Game plugin
 
-![build](https://img.shields.io/github/v/release/lisiados-dev/rocket-plugins-template.svg)
+
+[![build](https://ci.appveyor.com/api/projects/status/template?svg=true)](https://ci.appveyor.com/project/ennerperez/rocket-plugins-template)
+[![release](https://img.shields.io/github/v/release/lisiados-dev/rocket-plugins-template.svg)](https://github.com/lisiados-dev/rocket-plugins-template/releases/latest)
+
 
 ---------------------------------------
 
